@@ -1,0 +1,7 @@
+{
+  "name": "Nik Baker's - Premium Artisan Bakery",
+  "description": "Redesigned high-conversion landing page for Nik Baker's, featuring artisan breads, celebration cakes, and gourmet chocolates.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
